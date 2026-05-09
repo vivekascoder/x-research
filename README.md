@@ -10,6 +10,12 @@ It uses [twitter cli](https://github.com/public-clis/twitter-cli) to do deep res
 npx skills add vivekascoder/x-research
 ```
 
+## Examples
+
+```
+/x-research research on these accounts https://x.com/mil000, https://x.com/levelsio
+```
+
 ## Inspiration
 
 This skill was built using ideas and resources from:
