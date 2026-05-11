@@ -1,5 +1,7 @@
 # x-research
 
+[![skills.sh](https://skills.sh/b/vivekascoder/x-research)](https://skills.sh/vivekascoder/x-research)
+
 A skill for researching topics, people, products, and trends on Twitter/X using structured search, thread reading, and evidence gathering. It helps turn noisy tweets, replies, and account activity into concise, source-backed findings.
 
 It uses [twitter cli](https://github.com/public-clis/twitter-cli) to do deep research on twitter/x. 
@@ -15,6 +17,10 @@ npx skills add vivekascoder/x-research
 ```
 /x-research research on these accounts https://x.com/mil000, https://x.com/levelsio
 ```
+
+## Links
+
+- [Skill Page (skills.sh)](https://skills.sh/vivekascoder/x-research/x-research)
 
 ## Inspiration
 
