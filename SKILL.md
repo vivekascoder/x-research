@@ -102,6 +102,7 @@ Use this skill when you wanna do deep research on twitter/x.
     - Confidence level
     - Tradeoffs or caveats
     - Direct source links
+    - Since you're already reading tweets while mentioning direct links add markdown blockquote to quote the whole tweet and link before so users dont have to open twitter to see the whole tweet. 
 
 13. Highlight conflicts instead of flattening them.
     If sources disagree, explain:
