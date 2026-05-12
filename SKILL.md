@@ -88,6 +88,7 @@ Use this skill when you wanna do deep research on twitter/x.
     - The issue was later resolved
     - The guidance only applied to an older version
     - A later thread corrected the earlier advice
+    - If the author or the post seems credible to post on the topic or make claims
 
 11. Synthesize findings into a concise summary first.
     Start with 2 to 3 sentences covering:
